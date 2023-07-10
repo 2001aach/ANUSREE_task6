@@ -1,4 +1,4 @@
-# Program to find the total number of characters in the a string
+# Program to find the total number of characters in  a string
 
 string =input('enter the word')
 count = 0
