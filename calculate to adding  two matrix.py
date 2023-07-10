@@ -1,4 +1,4 @@
-# Progaram to calculate the addition of two matrix
+# Program to calculate the addition of two matrix
 
 
 X = [[1, 2],
